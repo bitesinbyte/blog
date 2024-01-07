@@ -7,6 +7,8 @@ tags: AzureAD AzureADB2C AzureEntra AzureDevOps
 redirect_from:
   - /blogPost/a474c427-52d8-4f7d-9f65-02822fced323/azure-b2c-custom-policies-deployment-azure-devops
   - /blogPost/a474c427-52d8-4f7d-9f65-02822fced323
+  - /automate-azure-b2c-custom-policies-deployment-c6421f1baeb3?source=user_profile---------9----------------------------
+  - /automate-azure-b2c-custom-policies-deployment-c6421f1baeb3?source=author_recirc-----7148ce60b54b----2----------------------------
 image:
   path: /assets/img/headers/azure-b2c-azure-devops.webp
 ---
