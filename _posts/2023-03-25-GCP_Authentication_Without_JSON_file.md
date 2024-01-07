@@ -18,6 +18,8 @@ In this blog post, I will explain how we can authenticate GCP or Firebase withou
 If you are just interested in code, you can just visit the [GitHub](https://github.com/manishtiwari25/bites-in-byte-blog/tree/main/src/GcpWithoutJson) repository.
 The code is compatible with **.NET 7**.
 
+{% include feed-ads.html %}
+
 <br>
 Recently I got a chance to work on Firebase with .Net 7. all over the internet all the docs were saying to add the JSON file and then connect. <br>
 In my case, I had to use Azure Key vault with an [option pattern](https://learn.microsoft.com/en-us/dotnet/core/extensions/options). <br>
@@ -26,6 +28,8 @@ after digging throw the docs and reading over the internet, I was able to use IC
 In the example, I am using Firestore, but I think it should work with all other services. <br>
 
 First thing first, we need to add some NuGets
+
+{% include article-ads.html %}
 
 ```cs
 Google.Cloud.Channel.V1
@@ -88,6 +92,8 @@ Add following section on you `appsettings.json` file
   }
 ```
 
+{% include display-ads.html %}
+
 In the example, I am using a console application so I am creating configurations using `ConfigurationBuilder`. <br>
 but if you are using Minimal API or Web app, you should use DI. <br>
 
@@ -108,6 +114,7 @@ var credJson = JsonSerializer.Serialize(creds);
 var gcpCreds = GoogleCredential.FromJson(credJson);
 ```
 
+{% include display-ads.html %}
 after this, the code is related to Firestore, but I think the approach should be similar to other services. <br>
 create FirestoreDb using FirestoreDbBuilder <br>
 
@@ -119,6 +126,8 @@ var firestoreDbBuilder = new FirestoreDbBuilder
 };
 var firestoreDb = await firestoreDbBuilder.BuildAsync();
 ```
+
+{% include display-ads.html %}
 
 Now your code is ready. you can add data to the Firestore collection.
 

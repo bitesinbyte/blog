@@ -18,6 +18,8 @@ By default Azure function app uses UTC Timezone.
 
 Now lets get to the point, before starting please check whether your function app is using Windows or Linux.
 
+{% include display-ads.html %}
+
 <strong>Using Azure portal</strong>
 
 - Go to the azure function app configurations
@@ -27,6 +29,8 @@ Now lets get to the point, before starting please check whether your function ap
 - Save the configuration
 - Done
 
+{% include article-ads.html %}
+
 <strong>Using PowerShell</strong>
 
 Run following command and add a new app settings, don’t forget to change the values (for windows, for Linux)
@@ -34,6 +38,8 @@ Run following command and add a new app settings, don’t forget to change the v
 ```bash
 Update-AzFunctionAppSetting -Name <MyAppName> -ResourceGroupName <MyResourceGroupName> -AppSetting @{"WEBSITE_TIME_ZONE" = "CHANGE_THIS"}
 ```
+
+{% include display-ads.html %}
 
 If you face any issues or if you have any question please add a comment, and please don’t forget to follow me.
 

@@ -67,6 +67,11 @@
 
 {% capture script %}/assets/js/dist/{{ js }}.min.js{% endcapture %}
 <script defer src="{{ script | relative_url }}"></script>
+  
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2889277787752693"
+crossorigin="anonymous"></script>
+
+<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
 
 {% if page.math %}
   <!-- MathJax -->
@@ -103,5 +108,4 @@
   {% if site.google_analytics.id != empty and site.google_analytics.id %}
     {% include google-analytics.html %}
   {% endif %}
-  {% include advertisement.html %}
 {% endif %}

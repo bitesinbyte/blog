@@ -17,6 +17,8 @@ redirect_from:
 
 we are living in a world where most of the things are dominated by targeted ads and search engine ranking, whenever I try to watch anything on YouTube I always greeted with ads and to be honest these ads sometimes misleading for example now days I am seeing so many people are promoting there websites to learn data structures, algorithms etc. so here is the main question does coding or DS, algorithm or programming language if enough to be a GOOD software engineer?
 
+{% include article-ads.html %}
+
 this can be a very controversial topic but this is my thoughts so if you have any disagreement please add a comment.
 
 <strong>About me</strong>
@@ -31,6 +33,8 @@ so now you will be asking so what is important, should I stop practicing coding?
 
 Don't worry I will provide a list of things a backend software should know.
 
+{% include display-ads.html %}
+
 Coding is only 30% of total backend engineering. if you have an degree of CSE then you are expected to know something and it should work, so what additional things you should know?
 
 1. CI/CD -> Now days whenever I take interviews I always prefer people who knows how to create a build and release pipelines and TBH it is essential because if you know coding you should be able to automate the building process and deployment process. (20%)
@@ -39,6 +43,8 @@ Coding is only 30% of total backend engineering. if you have an degree of CSE th
 4. Cloud computing -> Cloud computing is now becoming a major hiring criteria in tech world, in each opening you will be seeing AWS, Azure or GCP, in old days we use to deploy everything on servers which was managed by us, but now bug tech companies are providing there server to us and we can just use the services, this is not it there are more concept like server less, queues etc. I would recommend to learn one of the main cloud provider and become master in it. (20%)
 5. Terraform -> This is good to have thing, if you know terraform then you can crack any of the startup jobs, startup prefer people who has all the stack knowledge, BTW Terraform is IAAC (you can write code to create you infra on cloud), its good to have but not mandatory (5%)
 6. Design and Architecture -> Last but not least design and architecture, if you want to become an software architecture or principal engineer this is a mandatory things to adopt, just see how you can design a system from scratch, take feedback from you peers and keep on improving. (5%)
+
+{% include feed-ads.html %}
 
 <strong>Conclusion</strong>
 

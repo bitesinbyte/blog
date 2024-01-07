@@ -13,9 +13,15 @@ image:
 
 You are aware of how challenging it may be to work with large files if you are developing a.NET application and using D365 Finance and operation EDMX or Metadata files to produce your classes. The size of some EDMX files, which can reach 20MB, can significantly slow down your program and make it difficult to handle.
 
+{% include display-ads.html %}
+
 Fortunately, a new online tool is available that can be useful. You may trim your EDMX file with the tool, which you can find [here](https://www.bitesinbyte.com/edmx), and make a more streamlined, effective application.
 
+{% include display-ads.html %}
+
 The tool's ease of use is its best feature. You can easily build a condensed version of the EDMX file by selecting the entities you require. This file will only contain the entities you choose, making it far smaller and simpler.
+
+{% include display-ads.html %}
 
 Hope this will help. <br/>
 Happy coding

@@ -18,6 +18,8 @@ There are 3 type of protobuf data types
 3. Google common types
 4. Custom types
 
+{% include display-ads.html %}
+
 <h4>Scalar Value types</h4>
 these are common data types used in protobuf. scalar data type does not support null values.
 you can find more complete list [here](https://developers.google.com/protocol-buffers/docs/proto3#scalar) .
@@ -52,6 +54,8 @@ message Meeting {
 
 ```
 
+{% include feed-ads.html %}
+
 <h4>Google common types</h4>
 there are few custom data types provided by google, these are specially made for advance cases like money, phone number etc. if you want to use them just copy the proto file and put it into your project and import it.
 you can find all the implementation [here](https://github.com/googleapis/googleapis/tree/master/google/type)
@@ -60,6 +64,8 @@ you can find all the implementation [here](https://github.com/googleapis/googlea
 google common types are kind of custom types, you can create your own proto file and define something there and use it.
 
 you can just refer to one of the google common type.
+
+{% include article-ads.html %}
 
 <h4>Addition Links</h4>
 - https://docs.microsoft.com/en-us/dotnet/architecture/grpc-for-wcf-developers/protobuf-data-types
