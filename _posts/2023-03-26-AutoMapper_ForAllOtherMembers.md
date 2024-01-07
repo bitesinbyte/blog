@@ -49,7 +49,7 @@ Create an extension Method called `ForAllOtherMembers`.
  }
 ```
 
-{% include display-ads.html %}
+{% include article-ads.html %}
 
 there are more ways which you can find in [this stack overflow](https://stackoverflow.com/questions/71311303/replacement-for-automappers-forallothermembers) article.
 <br>

@@ -92,7 +92,7 @@ Add following section on you `appsettings.json` file
   }
 ```
 
-{% include display-ads.html %}
+{% include article-ads.html %}
 
 In the example, I am using a console application so I am creating configurations using `ConfigurationBuilder`. <br>
 but if you are using Minimal API or Web app, you should use DI. <br>
@@ -114,7 +114,7 @@ var credJson = JsonSerializer.Serialize(creds);
 var gcpCreds = GoogleCredential.FromJson(credJson);
 ```
 
-{% include display-ads.html %}
+{% include article-ads.html %}
 after this, the code is related to Firestore, but I think the approach should be similar to other services. <br>
 create FirestoreDb using FirestoreDbBuilder <br>
 
@@ -127,7 +127,7 @@ var firestoreDbBuilder = new FirestoreDbBuilder
 var firestoreDb = await firestoreDbBuilder.BuildAsync();
 ```
 
-{% include display-ads.html %}
+{% include article-ads.html %}
 
 Now your code is ready. you can add data to the Firestore collection.
 

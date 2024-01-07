@@ -40,7 +40,7 @@ as a developer you should only worry about 4 commands
 3. <h6>terraform apply</h6>
    Create or update infrastructure, this will trigger the cloud resources and create all the infra for you.
 
-   {% include display-ads.html %}
+   {% include article-ads.html %}
 
 4. <h6>terraform import</h6>
    Associate existing infrastructure with a Terraform resource, that means if you have existing resource in cloud it will just import there configuration in you local state.

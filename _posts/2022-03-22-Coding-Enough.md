@@ -33,7 +33,7 @@ so now you will be asking so what is important, should I stop practicing coding?
 
 Don't worry I will provide a list of things a backend software should know.
 
-{% include display-ads.html %}
+{% include article-ads.html %}
 
 Coding is only 30% of total backend engineering. if you have an degree of CSE then you are expected to know something and it should work, so what additional things you should know?
 

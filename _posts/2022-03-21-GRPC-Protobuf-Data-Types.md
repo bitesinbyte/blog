@@ -18,7 +18,7 @@ There are 3 type of protobuf data types
 3. Google common types
 4. Custom types
 
-{% include display-ads.html %}
+{% include article-ads.html %}
 
 <h4>Scalar Value types</h4>
 these are common data types used in protobuf. scalar data type does not support null values.

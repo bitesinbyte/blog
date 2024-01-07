@@ -18,7 +18,7 @@ If your answer is YES, then you are in a correct place, in this story I will tal
 
 First thing first, add some Integration Tests in your projects and on the configuration file set <strong>UseDevelopmentStorage=true</strong>, this will tell your code to use the local instance of storage account.
 
-{% include display-ads.html %}
+{% include article-ads.html %}
 
 Next step is to add the following steps in you build.yml file.
 

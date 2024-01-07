@@ -37,7 +37,7 @@ using (SomeDisposableType u = new SomeDisposableType())
 }
 ```
 
-{% include display-ads.html %}
+{% include article-ads.html %}
 The using statement can be used to reference a variable or the result from a method, and at the end of the scope Dispose method gets invoked
 
 behinds the scenes, compile creates the code using try/finally (as shown in image).
@@ -74,7 +74,7 @@ using var u = new SomeDisposableType();
 OperateOnType(u);
 ```
 
-{% include display-ads.html %}
+{% include article-ads.html %}
 if you use nested using statement your code will look like stairs with lots of curly braces, and it's hard to keep track of scops.
 
 ```cs

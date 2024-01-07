@@ -14,7 +14,7 @@ image:
 In this article, I will talk about automated database backup of Golden Configuration Environment or any tier 1 or 2 cloud-hosted environments. <br>
 we will be using Azure DevOps and Azure storage for this.
 
-{% include display-ads.html %}
+{% include article-ads.html %}
 
 ## Prerequisites
 

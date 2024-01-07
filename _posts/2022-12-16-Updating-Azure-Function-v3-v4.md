@@ -17,13 +17,13 @@ Updating an Azure Functions app from version 3 to version 4 involves a few steps
 
 2. Update the runtime version: In the Azure portal, navigate to your function app and select the “Configuration” tab. Scroll down to the “Application settings” section and update the “FUNCTIONS_EXTENSION_VERSION” setting to “v4”.
 
-{% include display-ads.html %}
+{% include article-ads.html %}
 
 3. Update the function app’s hosting plan: Azure Functions version 4 requires an updated hosting plan, so you will need to update the hosting plan for your function app. To do this, navigate to the “Scale up (App Service plan)” blade in the Azure portal and select an updated hosting plan.
 
 4. Update the function app’s dependencies: If your function app uses any third-party libraries or packages, you may need to update them to versions that are compatible with Azure Functions version 4. You can do this by updating the package references in your function app’s project files and then redeploying the app.
 
-{% include display-ads.html %}
+{% include article-ads.html %}
 
 5. Test your function app: After you have completed the update process, it is a good idea to test your function app to make sure it is working correctly. You can do this by triggering the functions in your app and verifying that they are running as expected.
 

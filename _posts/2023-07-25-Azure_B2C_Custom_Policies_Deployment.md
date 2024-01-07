@@ -94,7 +94,7 @@ stages:
 
 ---
 
-{% include display-ads.html %}
+{% include article-ads.html %}
 
 After creating a [build and deployment](https://marketplace.visualstudio.com/items?itemName=ManishTiwari-Azureb2c.AzureADB2CBuildTask) task 4 years back, I am back with another trick.
 
@@ -109,7 +109,7 @@ Even though it was a fun project, it is very hard to maintain it, so I decided t
 
   ![Folder Structure](/assets/img/posts/folder-structure.png)
 
-{% include display-ads.html %}
+{% include article-ads.html %}
 
 - [Deploy.ps1](https://gist.github.com/manishtiwari25/bad34a5544c8c709db31457d9cc94ebb#file-deploy-ps1) contains the script to deploy the files in azure b2c, it takes clientId, clientSectet, tenantId, and folderPath as input.
 
@@ -196,7 +196,7 @@ catch {
 exit 0
 ```
 
-{% include display-ads.html %}
+{% include article-ads.html %}
 
 <br/>
 
