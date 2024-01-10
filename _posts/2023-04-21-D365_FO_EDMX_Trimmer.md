@@ -15,7 +15,7 @@ You are aware of how challenging it may be to work with large files if you are d
 
 {% include article-ads.html %}
 
-Fortunately, a new online tool is available that can be useful. You may trim your EDMX file with the tool, which you can find [here](https://www.bitesinbyte.com/edmx), and make a more streamlined, effective application.
+Fortunately, a new online tool is available that can be useful. You may trim your EDMX file with the tool, which you can find [here](http://edmx.bitesinbyte.com), and make a more streamlined, effective application.
 
 {% include article-ads.html %}
 
