@@ -1,9 +1,11 @@
 ---
 layout: post
 title: "System.Text.Json Serialization Issue With Azure Cosmos DB SDK V3 For dotnet8"
-date: 2024-01-10 19:21:00 -0500
+date: 2024-01-10 07:40:00 -0100
 categories: coding dotnet azure
 tags: c# dotnet cosmos_db azure system.txt.json
+image:
+  path: /assets/img/headers/cosmosdb.webp
 ---
 
 ### TL;DR
@@ -79,4 +81,4 @@ var client = new CosmosClient(endpoint, authKey, cosmosClientOptions);
 ```
 
 I hope this article will help you.
-cheers :) 
+cheers :)
