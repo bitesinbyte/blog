@@ -29,7 +29,7 @@ Let´s train your brain to think like a computer, a fancy word for this is <stro
 
 I like a video from Harward's CS50 class, and I hope this will give a glimpse of how computers think.
 
-<iframe width="700" height="400" src="/assets/videos/PB&J Sandwich CS50.mp4" title="CS50 2017 - Lecture 0 - Scratch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="700" height="400" src="/assets/videos/PB&J Sandwich CS50.mp4" title="CS50 2017 - Lecture 0 - Scratch" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Next step, How to improve your Computational Thinking?
 
