@@ -92,10 +92,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: manishtiwari25/bites-in-byte-blog # <gh-username>/<repo>
-    repo_id: R_kgDOJN6obw
+    repo: bitesinbyte/blog
+    repo_id: R_kgDOLA_3uQ
     category: Q&A
-    category_id: DIC_kwDOJN6ob84CVH
+    category_id: DIC_kwDOLA_3uc4CcXxy
     mapping: pathname # optional, default to 'pathname'
     input_position: bottom # optional, default to 'bottom'
     lang: en # optional, default to the value of `site.lang`
