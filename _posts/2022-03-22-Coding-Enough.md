@@ -13,6 +13,7 @@ redirect_from:
   - /does-coding-is-enough-to-become-a-good-backend-engineer-3dc7d2702380?source=post_internal_links---------2----------------------------
   - /does-coding-is-enough-to-become-a-good-backend-engineer-3dc7d2702380?source=author_recirc-----a9c256fee353----2----------------------------
   - /does-coding-is-enough-to-become-a-good-backend-engineer-3dc7d2702380
+  - /share?text=Does coding is enough to become a good backend engineer? - bitesinbyte https://blogs.bitesinbyte.com//posts/Coding-Enough/
 ---
 
 we are living in a world where most of the things are dominated by targeted ads and search engine ranking, whenever I try to watch anything on YouTube I always greeted with ads and to be honest these ads sometimes misleading for example now days I am seeing so many people are promoting there websites to learn data structures, algorithms etc. so here is the main question does coding or DS, algorithm or programming language if enough to be a GOOD software engineer?

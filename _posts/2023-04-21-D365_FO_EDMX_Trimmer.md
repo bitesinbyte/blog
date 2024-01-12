@@ -7,6 +7,7 @@ tags: Metadata_Trimmer EDMX_trimmer D365FO
 redirect_from:
   - /blogPost/55744a66-88d9-4792-9131-6494d73f7bd0/d365-fo-edmx-odata-trimmer-online-make-your-metadata-smaller-online
   - /blogPost/55744a66-88d9-4792-9131-6494d73f7bd0
+  - /share?text=D365 FO EDMX / OData trimmer online– Make your metadata smaller online - bitesinbyte https://blogs.bitesinbyte.com//posts/D365_FO_EDMX_Trimmer
 image:
   path: /assets/img/headers/d365fo.webp
 ---

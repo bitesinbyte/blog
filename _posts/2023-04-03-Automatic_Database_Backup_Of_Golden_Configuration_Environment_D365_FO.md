@@ -7,6 +7,7 @@ tags: d365fo powershell
 redirect_from:
   - /blogPost/828d9714-e7b0-4099-a694-b8dc9da76d4d/automatic-database-backup-of-golden-configuration-environment-d365-fo
   - /blogPost/828d9714-e7b0-4099-a694-b8dc9da76d4d
+  - /share?text=Automatic Database Backup Of Golden Configuration Environment D365FO - bitesinbyte https://blogs.bitesinbyte.com//posts/Automatic_Database_Backup_Of_Golden_Configuration_Environment_D365_FO/
 image:
   path: /assets/img/headers/d365fo.webp
 ---

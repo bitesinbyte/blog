@@ -5,8 +5,11 @@ date: 2022-12-16 09:00:00 -0500
 categories: cloud azure
 tags: azure azurefunction
 redirect_from:
+  - /1
+  - /-1
   - /updating-azure-function-app-from-v3-to-v4-cb0b8ef3fc7c?source=author_recirc-----a9c256fee353----1----------------------------
   - /updating-azure-function-app-from-v3-to-v4-cb0b8ef3fc7c
+  - /share?text=Updating Azure Function App From V3 to V4 - bitesinbyte https://blogs.bitesinbyte.com//posts/Updating-Azure-Function-v3-v4/
 ---
 
 Updating an Azure Functions app from version 3 to version 4 involves a few steps. Here is a general outline of the process:

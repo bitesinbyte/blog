@@ -7,6 +7,7 @@ tags: Countries Geoname Gist
 redirect_from:
   - /where-can-i-get-list-of-countries-and-there-state-provinces-f05ce8f50928
   - /where-can-i-get-list-of-countries-and-there-state-provinces-f05ce8f50928?source=user_profile---------4----------------------------
+  - /share?text=Where can I get list of countries and there state provinces? - bitesinbyte https://blogs.bitesinbyte.com//posts/List-Countries/
 ---
 
 Last year when I was working on a project I also came across same question, I did some research I manage to find few sources but all of them were outdated so I decided to create my own gist for that.

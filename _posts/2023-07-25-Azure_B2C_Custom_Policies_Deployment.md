@@ -9,6 +9,8 @@ redirect_from:
   - /blogPost/a474c427-52d8-4f7d-9f65-02822fced323
   - /automate-azure-b2c-custom-policies-deployment-c6421f1baeb3?source=user_profile---------9----------------------------
   - /automate-azure-b2c-custom-policies-deployment-c6421f1baeb3?source=author_recirc-----7148ce60b54b----2----------------------------
+  - /share?text=Azure B2C Custom Policies Deployment - Azure DevOps - bitesinbyte https://blogs.bitesinbyte.com//posts/Azure_B2C_Custom_Policies_Deployment/
+  - /automate-azure-b2c-custom-policies-deployment-c6421f1baeb3?source=author_recirc-----7148ce60b54b----2----------------------------
 image:
   path: /assets/img/headers/azure-b2c-azure-devops.webp
 ---

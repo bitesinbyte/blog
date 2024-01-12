@@ -7,6 +7,7 @@ tags: .NET7 .NET8 C# AutoMapper
 redirect_from:
   - /blogPost/9a27ad88-0d31-4618-b2d1-9555edbbaa80/automapper-forallothermembers
   - /blogPost/9a27ad88-0d31-4618-b2d1-9555edbbaa80
+  - /share?text=AutoMapper ForAllOtherMembers - bitesinbyte https://blogs.bitesinbyte.com//posts/AutoMapper_ForAllOtherMembers/
 image:
   path: /assets/img/headers/automapper.webp
 ---

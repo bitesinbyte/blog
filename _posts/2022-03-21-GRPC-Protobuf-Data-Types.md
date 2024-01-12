@@ -7,6 +7,7 @@ tags: grpc grpc-data-type
 redirect_from:
   - /grpc-protobuf-data-types-7148ce60b54b?source=user_profile---------7----------------------------
   - /grpc-protobuf-data-types-7148ce60b54b
+  - /share?text=gRPC Protobuf Data Types - bitesinbyte https://blogs.bitesinbyte.com//posts/GRPC-Protobuf-Data-Types/
 ---
 
 the goal of this article is to get a complete list of gRPC data type in a single document, kind of cheat sheet.
