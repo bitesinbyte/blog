@@ -18,6 +18,8 @@ So, if you're ready to take your LinkedIn presence to new heights, grab your fav
 
 Let's dive in!
 
+{% include article-ads.html %}
+
 ## How does LinkedIn v2/posts Api work?
 
 ![How API Works](/assets/img/posts/automation/linkedin-automation/api-flow.webp)
@@ -55,6 +57,8 @@ Let's dive in!
       ```
 
       We will be using the value of the sub for future purposes.
+
+{% include article-ads.html %}
 
 2.  #### Upload Images (if any)
 
@@ -117,6 +121,8 @@ Let's dive in!
         --form 'file=@"android-chrome-512x512.png"'
       ```
 
+{% include article-ads.html %}
+
 3.  #### Create Post
 
     Finally, armed with the necessary profile information and any uploaded images, we'll create our post using LinkedIn's REST API endpoints. We'll explore how to formulate compelling posts and publish them seamlessly to engage our audience effectively.
@@ -155,6 +161,8 @@ Let's dive in!
 
     For more properties, please visit [LinkedIn API Documentation](https://learn.microsoft.com/en-us/linkedin/marketing/community-management/shares/posts-api?view=li-lms-2024-01&tabs=http)
 
+{% include article-ads.html %}
+
 ## Conclusion
 
 In this second part of our series on leveraging the LinkedIn API, we've explored the process of crafting and publishing posts with simplicity and efficiency.
@@ -170,6 +178,8 @@ Stay tuned for future installments where we'll delve even deeper into advanced t
 Keep crafting compelling content, keep networking, and most importantly, keep shining on LinkedIn!
 
 Let's keep moving forward together!
+
+{% include article-ads.html %}
 
 ## Other
 
