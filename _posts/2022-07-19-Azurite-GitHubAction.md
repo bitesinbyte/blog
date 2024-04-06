@@ -4,6 +4,7 @@ title: "Azurite + GitHub Actions"
 date: 2022-07-19 09:00:00 -0500
 categories: github
 tags: Github-Actions Azurite Csharp Github
+author: manishtiwari25
 redirect_from:
   - /media/e52ece39cd93224dd7fc1d9efa62f08a
   - /azurite-github-actions-2a29953af13f?source=author_recirc-----a9c256fee353----4----------------------------

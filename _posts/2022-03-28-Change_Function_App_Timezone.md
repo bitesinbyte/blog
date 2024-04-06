@@ -4,6 +4,7 @@ title: "How To Change Azure Function App Time zone"
 date: 2022-03-28 09:00:00 -0500
 categories: cloud function azure
 tags: azure azurefunction
+author: manishtiwari25
 redirect_from:
   - /how-to-change-azure-function-app-time-zone-a9c256fee353?source=user_profile---------3----------------------------
   - /how-to-change-azure-function-app-time-zone-a9c256fee353

@@ -4,6 +4,7 @@ title: "Does coding is enough to become a good backend engineer?"
 date: 2022-03-22 09:00:00 -0500
 categories: non-coding
 tags: Backend Backend-Development Software-Engineering Engineer
+author: manishtiwari25
 redirect_from:
   - /does-coding-is-enough-to-become-a-good-backend-engineer-3dc7d2702380?source=user_profile---------5----------------------------
   - /does-coding-is-enough-to-become-a-good-backend-engineer-3dc7d2702380?source=author_recirc-----a9c256fee353----3----------------------------

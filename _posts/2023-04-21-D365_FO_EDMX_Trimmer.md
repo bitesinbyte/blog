@@ -4,6 +4,7 @@ title: "D365 FO EDMX / OData trimmer online– Make your metadata smaller online
 date: 2023-04-21 09:00:00 -0500
 categories: d365 tools
 tags: Metadata_Trimmer EDMX_trimmer D365FO
+author: manishtiwari25
 redirect_from:
   - /blogPost/55744a66-88d9-4792-9131-6494d73f7bd0/d365-fo-edmx-odata-trimmer-online-make-your-metadata-smaller-online
   - /blogPost/55744a66-88d9-4792-9131-6494d73f7bd0

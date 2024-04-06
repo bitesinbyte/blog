@@ -4,6 +4,7 @@ title: "Maximizing Your Facebook Page: Part 2 - Creating Post using REST Apis"
 date: 2024-02-18 05:38:00 00
 categories: ferret
 tags: facebook rest post api
+author: manishtiwari25
 image:
   path: /assets/img/headers/automation/unlock-your-facebook-posting-potential-2.webp
 ---
