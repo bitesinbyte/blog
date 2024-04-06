@@ -4,6 +4,7 @@ title: "Unlocking LinkedIn's Posting Potential: Part 2 - Creating Post using RES
 date: 2024-02-11 05:38:00 00
 categories: ferret
 tags: linkedin rest post api
+author: manishtiwari25
 image:
   path: /assets/img/headers/automation/unlock-your-linkedin-posting-potential-2.webp
 ---

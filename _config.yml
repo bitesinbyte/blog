@@ -16,7 +16,7 @@ timezone: Europe/Berlin
 
 title: bitesinbyte # the main title
 
-tagline: Software Engineer | Tech Content Creator  | 🇮🇳 🇩🇪 | Full Nerd # it will display as the sub-title
+tagline: A space for my stories about dotnet, c#, azure, devops and more # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   bitesinbyte Home - Documentation and More.
@@ -43,7 +43,7 @@ social:
     - https://github.com/bitesinbyte # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/its-manishtiwari/
+    - https://www.linkedin.com/company/bitesinbyte
 
 google_site_verification: # fill in to your verification string
 
@@ -76,7 +76,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://avatars.githubusercontent.com/u/50008945
+avatar: /assets/img/favicons/android-chrome-512x512.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true

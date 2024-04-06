@@ -4,6 +4,7 @@ title: "gRPC Protobuf Data Types"
 date: 2022-03-21 09:00:00 -0500
 categories: coding grpc
 tags: grpc grpc-data-type
+author: manishtiwari25
 redirect_from:
   - /grpc-protobuf-data-types-7148ce60b54b?source=user_profile---------7----------------------------
   - /grpc-protobuf-data-types-7148ce60b54b

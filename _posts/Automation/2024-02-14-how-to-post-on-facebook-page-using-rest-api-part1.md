@@ -4,6 +4,7 @@ title: "Maximizing Your Facebook Page: Part 1 - Obtaining Your API Access Token"
 date: 2024-02-14 05:38:00 00
 categories: ferret
 tags: facebook rest post api
+author: manishtiwari25
 image:
   path: /assets/img/headers/automation/unlock-your-facebook-posting-potential-1.webp
 ---

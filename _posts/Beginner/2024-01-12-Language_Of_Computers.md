@@ -4,6 +4,7 @@ title: "The Language Of Computers"
 date: 2024-01-12 06:38:00 00
 categories: software-engineering beginner
 tags: coding software-enginner scratch guid binary ascii unicode
+author: manishtiwari25
 image:
   path: /assets/img/headers/beginner/language_of_computers.webp
 ---

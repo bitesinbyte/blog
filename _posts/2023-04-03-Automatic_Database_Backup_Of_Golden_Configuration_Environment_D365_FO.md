@@ -4,6 +4,7 @@ title: "Automatic Database Backup Of Golden Configuration Environment D365FO"
 date: 2023-04-03 09:00:00 -0500
 categories: coding d365 cloud
 tags: d365fo powershell
+author: manishtiwari25
 redirect_from:
   - /blogPost/828d9714-e7b0-4099-a694-b8dc9da76d4d/automatic-database-backup-of-golden-configuration-environment-d365-fo
   - /blogPost/828d9714-e7b0-4099-a694-b8dc9da76d4d

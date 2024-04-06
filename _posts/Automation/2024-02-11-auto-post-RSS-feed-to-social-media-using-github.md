@@ -4,6 +4,7 @@ title: "Automating RSS Feed Posts to Social Media Using GitHub: Say Hello To Fer
 date: 2024-02-11 11:38:00 00
 categories: ferret
 tags: github azure rss mastodon twitter x social linkedin
+author: manishtiwari25
 image:
   path: /assets/img/headers/automation/hello-ferret.webp
 ---

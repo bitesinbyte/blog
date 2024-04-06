@@ -3,6 +3,7 @@ layout: post
 title: "Terraform for developers"
 date: 2022-03-21 09:00:00 -0500
 categories: terraform cloud
+author: manishtiwari25
 tags: terraform
 redirect_from:
   - /terraform-for-developers-150ecff176fd

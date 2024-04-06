@@ -4,6 +4,7 @@ title: "Updating Azure Function App From V3 to V4"
 date: 2022-12-16 09:00:00 -0500
 categories: cloud azure
 tags: azure azurefunction
+author: manishtiwari25
 redirect_from:
   - /1
   - /-1

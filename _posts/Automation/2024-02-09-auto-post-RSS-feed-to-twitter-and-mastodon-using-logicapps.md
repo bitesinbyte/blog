@@ -4,6 +4,7 @@ title: "Automating RSS Feed Posts to Twitter(X) and Mastodon Using Logic Apps"
 date: 2024-02-09 05:38:00 00
 categories: ferret
 tags: logicapps azure rss mastodon twitter x
+author: manishtiwari25
 image:
   path: /assets/img/headers/automation/automate-rss-feed-x-and-mastodon.webp
 ---
