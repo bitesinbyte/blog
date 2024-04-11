@@ -11,7 +11,7 @@ image:
 
 Hold onto your hats, developers! A recent announcement by a Threads engineer sent a wave of excitement through the community – the Threads API is arriving by the end of June! This isn't just good news for building cool tools, it might be a turning point in the Instagram vs. Twitter battle.
 
-Thread API documentation is publically available [here](https://developers.facebook.com/docs/threads).
+Thread API documentation is publicly available [here](https://developers.facebook.com/docs/threads).
 
 ![ferret](/assets/img/posts/automation/thread-api-coming-soon.webp)
 
