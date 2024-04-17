@@ -56,3 +56,5 @@ package-lock.json
 
 # Misc
 assets/js/dist
+
+!.devcontainer
