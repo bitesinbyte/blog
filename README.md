@@ -18,5 +18,5 @@ bundle install
 ### Run the development server
 
 ```bash
-$ bundle exec jekyll s
+bundle exec jekyll s
 ```
