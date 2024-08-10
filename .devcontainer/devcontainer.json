@@ -1,15 +1,16 @@
 {
-	"name": "Ruby 3",
-	"dockerFile": "Dockerfile",
-    "customizations":{
+    "name": "Ruby 3",
+    "dockerFile": "Dockerfile",
+    "customizations": {
         "vscode": {
-            "settings": { 
-		        "terminal.integrated.shell.linux": "/bin/bash"
-	        },
+            "settings": {
+                "terminal.integrated.shell.linux": "/bin/bash"
+            },
             "extensions": [
-                "rebornix.Ruby"
+                "rebornix.Ruby",
+                "DavidAnson.vscode-markdownlint"
             ]
         }
     },
-	"postCreateCommand": "bundle install"
+    "postCreateCommand": "bundle install"
 }
