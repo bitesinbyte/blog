@@ -77,8 +77,7 @@ assign js = 'commons' %} {% endcase %} {% capture script %}/assets/js/dist/{{ js
 {% else %}
 <script defer src="{{ '/unregister.js' | relative_url }}"></script>
 {% endif %}
-
+{% endif %}
 <!-- GA -->
-{% if site.google_analytics.id != empty and site.google_analytics.id %} {%
-include google-analytics.html %} {% endif %} {% endif %} {% include
-ad-recovery.html %} {% include cookie-bot.html %}
+{% include ad-recovery.html %}{% include
+cookie-consent.html %}
