@@ -15,6 +15,8 @@ Whether you're documenting microservices, infrastructure, or galactic weapons (�
 
 This post walks you through automating the export of `.drawio` diagrams to PNG using **GitHub Actions**, so your visuals are always up-to-date and versioned alongside your code.
 
+{% include article-ads.html %}
+
 ---
 
 ## 🧩 The Objective
@@ -35,6 +37,8 @@ docs/images/deathstar-blueprint-page-1.png
 ...
 ```
 
+{% include article-ads.html %}
+
 ---
 
 ## 🧰 Prerequisites
@@ -42,6 +46,8 @@ docs/images/deathstar-blueprint-page-1.png
 - GitHub repo with `.drawio` files under `docs/drawio/`
 - GitHub Actions enabled
 - A personal access token (PAT) with repo push access (used to commit image changes)
+
+{% include article-ads.html %}
 
 ---
 
@@ -101,6 +107,9 @@ jobs:
         git push
 ```
 
+{% include article-ads.html %}
+{% include article-ads.html %}
+
 ---
 
 ## 🧠 Why Automate This?
@@ -110,6 +119,9 @@ jobs:
 ✅ Eliminates manual exports  
 ✅ Git-tracks your documentation like your code
 
+{% include article-ads.html %}
+{% include article-ads.html %}
+
 ---
 
 ## 💡 Bonus Ideas
@@ -117,6 +129,8 @@ jobs:
 - Export diagrams to SVG or PDF
 - Publish diagrams to GitHub Pages or a wiki
 - Trigger exports nightly or per release branch
+
+{% include article-ads.html %}
 
 ---
 
@@ -126,6 +140,11 @@ Documentation is better when it’s automated. By integrating Draw.io diagram ex
 
 Turn your `deathstar-blueprint.drawio` into a blueprint the rebellion would envy. ✨
 
+{% include article-ads.html %}
+
 ---
 
 Need help extending this workflow? Feel free to fork, adapt, or drop a question!
+
+{% include article-ads.html %}
+{% include article-ads.html %}

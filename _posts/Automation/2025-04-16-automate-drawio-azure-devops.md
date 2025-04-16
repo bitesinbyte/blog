@@ -18,6 +18,8 @@ But what if you could automate that?
 
 In this post, you’ll learn how to **automatically export your `.drawio` diagrams into PNG images using Azure DevOps Pipelines** every time the file changes. Our example will revolve around a diagram file called `deathstar-blueprint.drawio`, because let’s face it—good DevOps is how the Empire *should* have built the Death Star.
 
+{% include article-ads.html %}
+
 ---
 
 ## 🧩 The Objective
@@ -32,6 +34,8 @@ Whenever `deathstar-blueprint.drawio` is updated in your Git repository, this pi
 
 All hands-off. All automated.
 
+{% include article-ads.html %}
+
 ---
 
 ## 🧰 Prerequisites
@@ -43,11 +47,15 @@ Make sure your repo:
 - Has permissions to push changes to branches (PAT or system access)
 - Uses Git version control
 
+{% include article-ads.html %}
+
 ---
 
 ## 🔁 Pipeline Overview
 
 Here’s the full pipeline YAML and a breakdown of how each step works.
+
+{% include article-ads.html %}
 
 ---
 
@@ -61,6 +69,8 @@ trigger:
 ```
 
 Only runs when files inside `docs/drawio/` are modified.
+
+{% include article-ads.html %}
 
 ---
 
@@ -91,6 +101,8 @@ Uses Microsoft’s `ubuntu-latest` hosted agent.
 - Downloads and extracts **Draw.io Desktop**
 - Prepares output folder `docs/images/`
 
+{% include article-ads.html %}
+
 ---
 
 ### 📄 Count Pages in the Diagram
@@ -103,6 +115,8 @@ Uses Microsoft’s `ubuntu-latest` hosted agent.
 ```
 
 Parses XML to count `<diagram>` nodes (pages).
+
+{% include article-ads.html %}
 
 ---
 
@@ -142,6 +156,8 @@ Parses XML to count `<diagram>` nodes (pages).
 
 Exports each page from the `.drawio` file as PNG images into `docs/images/`.
 
+{% include article-ads.html %}
+
 ---
 
 ### 🧹 Cleanup and Push Changes
@@ -163,6 +179,8 @@ Exports each page from the `.drawio` file as PNG images into `docs/images/`.
 - Commits image exports back to the same branch
 - Skips triggering another pipeline run (`[skip ci]`)
 
+{% include article-ads.html %}
+
 ---
 
 ## 🧠 Why Automate This?
@@ -180,6 +198,8 @@ Exports each page from the `.drawio` file as PNG images into `docs/images/`.
 - Publish images to a static site (e.g., GitHub Pages)
 - Auto-generate README previews or Confluence pages
 
+{% include article-ads.html %}
+
 ---
 
 ## 🧨 Final Thoughts
@@ -188,6 +208,11 @@ By integrating Draw.io exports into your CI pipeline, your diagrams become as ma
 
 And just like that—your `deathstar-blueprint.drawio` evolves into a living artifact of your software system.
 
+{% include article-ads.html %}
+
 ---
 
 **Need help extending this setup?** Reach out, comment, or fork this into your own DevOps Death Star ✨
+
+{% include article-ads.html %}
+{% include article-ads.html %}
