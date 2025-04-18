@@ -4,6 +4,7 @@ title: "Automate Draw.io Diagram Export with Azure DevOps"
 date: 2025-04-16
 categories: [DevOps, Automation, Azure, Drawio]
 tags: [azure-devops, pipelines, drawio, automation, documentation]
+author: manishtiwari25
 description: "Learn how to automate exporting Draw.io diagrams into PNG images using Azure DevOps pipelines. A complete step-by-step guide using deathstar-blueprint.drawio."
 image:
   path: /assets/img/headers/automation/automate-drawio-azure-devops.webp
