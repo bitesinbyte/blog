@@ -94,6 +94,8 @@ Uses Microsoft’s `ubuntu-latest` hosted agent.
     wget https://github.com/jgraph/drawio-desktop/releases/download/v26.2.2/drawio-x86_64-26.2.2.AppImage -O drawio || exit 1
     chmod +x drawio
     ./drawio --appimage-extract || exit 1
+    sudo chown root:root squashfs-root/chrome-sandbox
+    sudo chmod 4755 squashfs-root/chrome-sandbox
     mkdir -p docs/images/
   displayName: 'Prepare Draw.io Environment'
 ```
