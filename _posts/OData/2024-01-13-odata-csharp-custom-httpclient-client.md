@@ -66,7 +66,7 @@ public class MyCustomDummyService(IHttpClientFactory httpClientFactory)
 Now you can just use httpclient method to fetch the data.
 
 If you are working on a console app or something where you can't use the dependency injections, in that case, you can just create a new instance of HttpClient and use it.
-you can get some code [here](https://github.com/manishtiwari25/bites-in-byte-blog/blob/main/src/ODataBenchmark/BenchmarkODataHttp.cs)
+you can get some code [here](https://github.com/lamplitlabs/bites-in-byte-blog/blob/main/src/ODataBenchmark/BenchmarkODataHttp.cs)
 
 ## Advantages of Custom HttpClient
 
@@ -144,4 +144,4 @@ In summary, Custom HttpClient provides maximum flexibility and control for fine-
 
 ## Other
 
-If you want to explore your OData metadata, you can visit an [open-source](https://edmx.bitesinbyte.com/explore) project created by me. By using this tool you can get the data types, enum values, and other useful information.
+If you want to explore your OData metadata, you can visit an [open-source](https://edmx.lamplitlabs.com/explore) project created by me. By using this tool you can get the data types, enum values, and other useful information.

@@ -11,7 +11,7 @@ image:
 
 ## Introduction
 
-In my last post about [automation using Logic App](/posts/auto-post-RSS-feed-to-twitter-and-mastodon-using-logicapps/), I discussed the usage of the X (Twitter) connector. However, I encountered some limitations with this approach. Determined to find a more flexible solution, I delved deeper into the realm of automation and crafted an open-source automation tool hosted on GitHub Actions. Join me in welcoming [Ferret](https://github.com/bitesinbyte/ferret).
+In my last post about [automation using Logic App](/posts/auto-post-RSS-feed-to-twitter-and-mastodon-using-logicapps/), I discussed the usage of the X (Twitter) connector. However, I encountered some limitations with this approach. Determined to find a more flexible solution, I delved deeper into the realm of automation and crafted an open-source automation tool hosted on GitHub Actions. Join me in welcoming [Ferret](https://github.com/lamplitlabs/ferret).
 
 ![ferret](/assets/img/posts/automation/ferret.webp)
 
@@ -41,7 +41,7 @@ Ferret operates on a simple yet efficient workflow. Upon detecting new content i
 
 ## Getting Started with Ferret
 
-Getting started with Ferret is a breeze. Simply [fork the Ferret repository](https://github.com/bitesinbyte/ferret/fork) on GitHub and customize the configuration according to your requirements. With comprehensive documentation and a user-friendly interface, setting up Ferret requires minimal effort.
+Getting started with Ferret is a breeze. Simply [fork the Ferret repository](https://github.com/lamplitlabs/ferret/fork) on GitHub and customize the configuration according to your requirements. With comprehensive documentation and a user-friendly interface, setting up Ferret requires minimal effort.
 
 {% include article-ads.html %}
 

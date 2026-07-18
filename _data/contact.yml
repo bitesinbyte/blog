@@ -2,16 +2,16 @@
 -
   type: github
   icon: 'fab fa-github'
-  url: 'https://www.github.com/bitesinbyte'
+  url: 'https://www.github.com/lamplitlabs'
 -
    type: instagram
    icon: 'fab fa-instagram'
-   url:  'https://www.instagram.com/bitesinbyte'
+   url:  'https://www.instagram.com/lamplitlabs'
 
 -
   type: web
   icon: 'fas fa-external-link'
-  url:  'https://bitesinbyte.github.io/links'
+  url:  'https://www.lamplitlabs.com'
 -
   type: email
   icon: 'fas fa-envelope'

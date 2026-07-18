@@ -10,7 +10,7 @@ redirect_from:
   - /-1
   - /updating-azure-function-app-from-v3-to-v4-cb0b8ef3fc7c?source=author_recirc-----a9c256fee353----1----------------------------
   - /updating-azure-function-app-from-v3-to-v4-cb0b8ef3fc7c
-  - /share?text=Updating Azure Function App From V3 to V4 - bitesinbyte https://blogs.bitesinbyte.com//posts/Updating-Azure-Function-v3-v4/
+  - /share?text=Updating Azure Function App From V3 to V4 - Lamplit Labs https://blogs.lamplitlabs.com/posts/Updating-Azure-Function-v3-v4/
 ---
 
 Updating an Azure Functions app from version 3 to version 4 involves a few steps. Here is a general outline of the process:

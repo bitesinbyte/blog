@@ -8,7 +8,7 @@ author: manishtiwari25
 redirect_from:
   - /blogPost/9a27ad88-0d31-4618-b2d1-9555edbbaa80/automapper-forallothermembers
   - /blogPost/9a27ad88-0d31-4618-b2d1-9555edbbaa80
-  - /share?text=AutoMapper ForAllOtherMembers - bitesinbyte https://blogs.bitesinbyte.com//posts/AutoMapper_ForAllOtherMembers/
+  - /share?text=AutoMapper ForAllOtherMembers - Lamplit Labs https://blogs.lamplitlabs.com/posts/AutoMapper_ForAllOtherMembers/
 image:
   path: /assets/img/headers/automapper.webp
 ---

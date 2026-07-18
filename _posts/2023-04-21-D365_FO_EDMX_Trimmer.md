@@ -8,7 +8,7 @@ author: manishtiwari25
 redirect_from:
   - /blogPost/55744a66-88d9-4792-9131-6494d73f7bd0/d365-fo-edmx-odata-trimmer-online-make-your-metadata-smaller-online
   - /blogPost/55744a66-88d9-4792-9131-6494d73f7bd0
-  - /share?text=D365 FO EDMX / OData trimmer online– Make your metadata smaller online - bitesinbyte https://blogs.bitesinbyte.com//posts/D365_FO_EDMX_Trimmer
+  - /share?text=D365 FO EDMX / OData trimmer online– Make your metadata smaller online - Lamplit Labs https://blogs.lamplitlabs.com/posts/D365_FO_EDMX_Trimmer
 image:
   path: /assets/img/headers/d365fo.webp
 ---
@@ -17,7 +17,7 @@ You are aware of how challenging it may be to work with large files if you are d
 
 {% include article-ads.html %}
 
-Fortunately, a new online tool is available that can be useful. You may trim your EDMX file with the tool, which you can find [here](http://edmx.bitesinbyte.com), and make a more streamlined, effective application.
+Fortunately, a new online tool is available that can be useful. You may trim your EDMX file with the tool, which you can find [here](https://edmx.lamplitlabs.com), and make a more streamlined, effective application.
 
 {% include article-ads.html %}
 
