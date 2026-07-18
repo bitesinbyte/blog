@@ -7,7 +7,10 @@
    type: instagram
    icon: 'fab fa-instagram'
    url:  'https://www.instagram.com/lamplitlabs'
-
+-
+  type: twitter
+  icon: 'fa-brands fa-x-twitter'
+  url: 'https://x.com/lamplitlabs'
 -
   type: web
   icon: 'fas fa-external-link'
