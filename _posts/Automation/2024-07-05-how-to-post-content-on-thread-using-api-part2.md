@@ -12,7 +12,7 @@ image:
 Hey there, welcome back to our journey in supercharging your Thread Account! In our [last chat](/posts/how-to-post-content-on-thread-using-api-part1), we talked about getting your hands on that special API access token tailor-made for creating posts on your Threads account. Now, armed with that token, let's dive into the fun part – crafting and scheduling posts using REST APIs.
 
 TLDR
-Please visit [https://github.com/bitesinbyte/ferret/blob/main/pkg/external/thread.go](https://github.com/bitesinbyte/ferret/blob/main/pkg/external/thread.go) for golang code.
+Please visit [https://github.com/lamplitlabs/ferret/blob/main/pkg/external/thread.go](https://github.com/lamplitlabs/ferret/blob/main/pkg/external/thread.go) for golang code.
 
 {% include article-ads.html %}
 
@@ -24,7 +24,7 @@ Alright, so let's break it down. REST APIs are like the magic wand for tech folk
 
 ## Creating a Post
 
-- Make sure you have the page token generated on [part 1](https://blogs.bitesinbyte.com/posts/how-to-post-on-facebook-page-using-rest-api-part1/#generate-an-api-access-token)
+- Make sure you have the page token generated on [part 1](https://blogs.lamplitlabs.com/posts/how-to-post-on-facebook-page-using-rest-api-part1/#generate-an-api-access-token)
 - Url: https://graph.threads.net/v1.0/[USER_ID]/threads?media_type=Text&text=[CONTENT_TEXT]&access_token=[ACCESS_TOKEN]
     - Method: POST
     - **Response**

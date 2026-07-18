@@ -14,7 +14,7 @@ redirect_from:
 ---
 
 Azure function app uses [NCronTab](https://github.com/atifaziz/NCrontab) library to interpret the CRON expression.
-you can test your expression [here](https://bitesinbyte.com/ncrontab).
+you can test your expression [here](https://tools.lamplitlabs.com/cron).
 By default Azure function app uses UTC Timezone.
 
 Now lets get to the point, before starting please check whether your function app is using Windows or Linux.

@@ -46,7 +46,7 @@ public static void Main(string[] s)
 
 ```
 
-you can get the code [here](https://github.com/manishtiwari25/bites-in-byte-blog/blob/main/src/ODataBenchmark/BenchmarkODataClient.cs)
+you can get the code [here](https://github.com/lamplitlabs/bites-in-byte-blog/blob/main/src/ODataBenchmark/BenchmarkODataClient.cs)
 
 ## Advantages of OData Client
 
@@ -102,4 +102,4 @@ In summary, OData Client is a valuable tool for developers who want to simplify 
 
 ## Other
 
-If you want to explore your OData metadata, you can visit an [open-source](https://edmx.bitesinbyte.com/explore) project created by me. By using this tool you can get the data types, enum values, and other useful information.
+If you want to explore your OData metadata, you can visit an [open-source](https://edmx.lamplitlabs.com/explore) project created by me. By using this tool you can get the data types, enum values, and other useful information.

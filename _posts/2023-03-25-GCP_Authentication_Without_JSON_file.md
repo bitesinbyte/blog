@@ -16,7 +16,7 @@ In this blog post, I will explain how we can authenticate GCP or Firebase withou
 
 **TL/DR**
 <br>
-If you are just interested in code, you can just visit the [GitHub](https://github.com/manishtiwari25/bites-in-byte-blog/tree/main/src/GcpWithoutJson) repository.
+If you are just interested in code, you can just visit the [GitHub](https://github.com/lamplitlabs/bites-in-byte-blog/tree/main/src/GcpWithoutJson) repository.
 The code is compatible with **.NET 7**.
 
 {% include feed-ads.html %}

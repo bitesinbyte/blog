@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/bitesinbyte/blog">
+  <a href="https://github.com/lamplitlabs/blog">
     <img src="assets/img/favicons/android-chrome-512x512.png" width="256px" />
   </a>
 </p>

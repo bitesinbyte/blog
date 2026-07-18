@@ -27,7 +27,7 @@ Now, before we jump into the action, let's chat about the Facebook Graph API. Th
 
 ## Creating a Post
 
-- Make sure you have the page token generated on [part 1](https://blogs.bitesinbyte.com/posts/how-to-post-on-facebook-page-using-rest-api-part1/#generate-an-api-access-token)
+- Make sure you have the page token generated on [part 1](https://blogs.lamplitlabs.com/posts/how-to-post-on-facebook-page-using-rest-api-part1/#generate-an-api-access-token)
 - Url: https://graph.facebook.com/v19.0/PAGE_ID/feed
 
   - Method: POST
@@ -50,7 +50,7 @@ Now, before we jump into the action, let's chat about the Facebook Graph API. Th
       ```json
       {
         "message": "Text",
-        "link": "https://blogs.bitesinbyte.com//posts/odata/",
+        "link": "https://blogs.lamplitlabs.com/posts/odata/",
         "access_token": "TOKEN",
         "published": "false",
         "scheduled_publish_time": "unix_time_stamp_of_a_future_date"

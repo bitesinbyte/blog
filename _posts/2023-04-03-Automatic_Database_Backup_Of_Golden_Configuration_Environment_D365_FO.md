@@ -8,7 +8,7 @@ author: manishtiwari25
 redirect_from:
   - /blogPost/828d9714-e7b0-4099-a694-b8dc9da76d4d/automatic-database-backup-of-golden-configuration-environment-d365-fo
   - /blogPost/828d9714-e7b0-4099-a694-b8dc9da76d4d
-  - /share?text=Automatic Database Backup Of Golden Configuration Environment D365FO - bitesinbyte https://blogs.bitesinbyte.com//posts/Automatic_Database_Backup_Of_Golden_Configuration_Environment_D365_FO/
+  - /share?text=Automatic Database Backup Of Golden Configuration Environment D365FO - Lamplit Labs https://blogs.lamplitlabs.com/posts/Automatic_Database_Backup_Of_Golden_Configuration_Environment_D365_FO/
 image:
   path: /assets/img/headers/d365fo.webp
 ---
@@ -51,7 +51,7 @@ In _summary_, we will be creating an Azure DevOps pipeline that will run every d
 - Create a PowerShell script file (database-backup.ps1, and copy the content from [GitHub](https://gist.github.com/manishtiwari25/fd0f7f012455f692c26878638e48764e) )
 - Check-In the code, if you are creating this please push the code into the repository.
 - Create a new pipeline on Azure DevOps (you can get more information on [official documentation](https://learn.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?view=azure-devops&tabs=java%2Ctfs-2018-2%2Cbrowser)), while creating the pipeline select the YAML file you created.
-- Almost done, now you can run and test your pipeline (If you face any issues, please create a discussion on [GitHub](https://github.com/manishtiwari25/bites-in-byte-blog/discussions/new?category=q-a))
+- Almost done, now you can run and test your pipeline (If you face any issues, please create a discussion on [GitHub](https://github.com/lamplitlabs/bites-in-byte-blog/discussions/new?category=q-a))
 - Now we will create a schedule, please note this can be done in two ways
   - Adding cron in the YAML, I personally don't like this, each time I want to update the time I have to update the repository and raise a PR and then wait for approvals. you can follow the [official docs](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/scheduled-triggers?view=azure-devops&tabs=yaml) for this.
   - Adding the cron on Azure DevOps pipeline settings (classic approach). To add a schedule please follow the [official docs](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/scheduled-triggers?view=azure-devops&tabs=classic), Edit the pipeline, and then from top right menu click on trigger and create a schedule.
@@ -61,7 +61,7 @@ In _summary_, we will be creating an Azure DevOps pipeline that will run every d
 
 ## Conclusion
 
-I hope that you are able to achieve the task. if you face any issues please raise a QA on [GitHub](https://github.com/manishtiwari25/bites-in-byte-blog/discussions/new?category=q-a).
+I hope that you are able to achieve the task. if you face any issues please raise a QA on [GitHub](https://github.com/lamplitlabs/bites-in-byte-blog/discussions/new?category=q-a).
 
 If you are interested in terraforming, DevOps, Cloud (Azure, GCP, or AWS), or .Net, please follow me on [Medium](https://manish-tiwari.medium.com) and subscribe for the latest updates.  
  <br/>

@@ -81,7 +81,7 @@ public class Main
 - In case of Simple.OData.Client, the initial load time can be more, the library tries to fetch the metadata and use it for the validation later.
 
 Official [GitHub Repo](https://github.com/simple-odata-client/Simple.OData.Client).
-you can get the code [here](https://github.com/manishtiwari25/bites-in-byte-blog/blob/main/src/ODataBenchmark/BenchmarkSimpleODataClient.cs)
+you can get the code [here](https://github.com/lamplitlabs/bites-in-byte-blog/blob/main/src/ODataBenchmark/BenchmarkSimpleODataClient.cs)
 
 ## Advantages of Simple OData Client
 
@@ -139,4 +139,4 @@ In summary, Simple OData Client is a lightweight and easy-to-use library that is
 
 ## Other
 
-If you want to explore your OData metadata, you can visit an [open-source](https://edmx.bitesinbyte.com/explore) project created by me. By using this tool you can get the data types, enum values, and other useful information.
+If you want to explore your OData metadata, you can visit an [open-source](https://edmx.lamplitlabs.com/explore) project created by me. By using this tool you can get the data types, enum values, and other useful information.

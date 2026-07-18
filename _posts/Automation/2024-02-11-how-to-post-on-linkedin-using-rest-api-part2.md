@@ -184,4 +184,4 @@ Let's keep moving forward together!
 
 ## Other
 
-- Go Code is available [here](https://github.com/bitesinbyte/ferret/blob/main/pkg/external/linkedin.go)
+- Go Code is available [here](https://github.com/lamplitlabs/ferret/blob/main/pkg/external/linkedin.go)

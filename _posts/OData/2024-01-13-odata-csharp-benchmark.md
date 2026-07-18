@@ -70,6 +70,6 @@ The choice between ODataClient, custom HttpClient, and Simple OData Client hinge
 
 ## Other
 
-- The benchmarking code is available on [GitHub](https://github.com/manishtiwari25/bites-in-byte-blog/tree/main/src/ODataBenchmark)
-- Tools related to OData EDMX or Metadata are available [here](http://edmx.bitesinbyte.com/)
+- The benchmarking code is available on [GitHub](https://github.com/lamplitlabs/bites-in-byte-blog/tree/main/src/ODataBenchmark)
+- Tools related to OData EDMX or Metadata are available [here](https://edmx.lamplitlabs.com/)
 - Other Related [blogs](/categories/odata/)
